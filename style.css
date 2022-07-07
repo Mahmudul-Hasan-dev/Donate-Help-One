@@ -84,6 +84,7 @@ body{
     background-color: rgb(182, 169, 169);
     margin:10px;
     padding: 15px;
+    width: 33%;
 }
 .f-icon{
     color: white;
@@ -105,11 +106,13 @@ body{
     background-color: rgb(235, 166, 166);
     margin:10px;
     padding: 15px;
+    width: 33%;
 }
 .ef-child{
     background-color: rgb(227, 241, 143);
     margin:10px;
     padding: 15px;
+    width: 33%;
 }
 .your-donation{
     display: flex;
