@@ -85,6 +85,22 @@ body{
     margin:10px;
     padding: 15px;
 }
+.f-icon{
+    color: white;
+    width: 40%;
+    padding-left: 30%;
+}
+.s-icon{
+    color: white;
+    width: 40%;
+    padding-left: 30%;
+
+}
+.e-icon{
+    color: white;
+    width: 40%;
+    padding-left: 30%;
+}
 .sf-family{
     background-color: rgb(235, 166, 166);
     margin:10px;
@@ -147,6 +163,28 @@ body{
     background-color: rgb(235, 93, 93);
     padding: 10px 20px;
 }
+.your-donation-handed{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 7%;
+    margin-right: 7%;
+
+}
+.donation-handed-text{
+    width: 50%;
+    margin-right: 10px;
+}
+.donation-handed-text a{
+    text-decoration: none;
+    background-color: rgb(240, 120, 120);
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.donation-handed-img{
+    width: 50%;
+}
 
 .gm-update{
     text-align: center;
@@ -162,10 +200,10 @@ body{
 .form{
     background-color: rgb(243, 167, 167);
     padding: 40px;
-    margin-left: 30%;
-    margin-right: 30%;
-    margin-top: 10%;
-    margin-bottom: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 7%;
+    margin-bottom: 7%;
     text-align:center;
     border: none;
 }
